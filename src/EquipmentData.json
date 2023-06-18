@@ -1,0 +1,40 @@
+{
+    "equipment": [
+      {
+        "id": 1,
+        "equipName": "Balance Beam",
+        "description": "A sturdy beam to help enhance your balancing skills",
+        "price": "$150.00",
+        "imageUrl": "https://media.istockphoto.com/photos/gymnastic-balance-beam-isolated-on-white-background-3d-renderin-picture-id527231312"
+      },
+      {
+        "id": 2,
+        "equipName": "Gymnast Bar",
+        "description": "No wobble, adjustable and expandable bar",
+        "price": "$180.75",
+        "imageUrl": "https://www.yanrefitness.com/wp-content/webpc-passthru.php?src=https://www.yanrefitness.com/wp-content/uploads/2022/02/494-4943318_uneven-bars-gymnastics-hd-png-download.jpg&nocache=1"
+      },
+      {
+        "id": 3,
+        "equipName": "Climbing rope",
+        "description": "Easy hook to the ceiling and work on upper body strength",
+        "price": "$30.00",
+        "imageUrl": "https://media.istockphoto.com/photos/blue-climbing-rope-isolated-on-white-background-picture-id593304422?k=20&m=593304422&s=612x612&w=0&h=cH81JFMbXFCwXMRAcupfeQP5m7R1nFAPdN9WGVgku8E="
+      },
+      {
+        "id": 4,
+        "equipName": "Trampoline",
+        "description": "Small fitness trampoline",
+        "price": "$90.50",
+        "imageUrl": "https://media.istockphoto.com/photos/mini-trampoline-rebounder-picture-id507371349?k=20&m=507371349&s=612x612&w=0&h=_w8yuq-YS55nL8VzawRGMtzZZyQBkRYwZRnLxG_Og6w="
+      },
+      {
+        "id": 5,
+        "equipName": "Tumble Track",
+        "description": "Gymnastics tumbling mat",
+        "price": "$120.00",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/2447/1521/products/airtracks_24_bc43b77e-49f9-4d98-a76d-a1cd68dca53f_394x.png?v=1611567509"
+
+      }
+    ]
+  }
